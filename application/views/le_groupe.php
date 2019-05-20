@@ -45,37 +45,24 @@
 <div class="container-fluid">
   <div class="row">
     <div class="text-description col-xs-12 col-lg-6">
-      <h1>Group Sofra Invest</h1>
-      <h2>Synergie des métiers pour la gestion du poste client</h2>
-      <p>Group Sofra Invest, via ses filiales, SOFRA, SNI et TDA SERVICES, vous propose des prestations pour la gestion de votre clientèle que ce soit des relances commerciales en marque blanche, pour la gestion de vos impayés et du recouvrement, pour des recherches et investigations civiles et commerciales, pour la prise en charge de vos plis non distribués, le traitement de vos PND ou l’enrichissement de votre base client.</p>
-      <a href= "http://localhost:8888/prestations/description/">
-        <button class="float-right align-middle rounded-pill" name="button" type="button" class="button-style">En savoir plus</button>
-      </a>
+      <h1>Group Sofra Invest, une synergie de nos métiers pour répondre à vos besoins.</h1>
+      <p> L’alliance de nos prestations et de nos filiales vous permet d’obtenir une large gamme de solutions sur mesure basées sur l’analyse de votre process et de vos besoins, une relation privilégiée et un réel savoir-faire depuis 16 ans.</p>
+      <p>
+      Notre champ d’action s’étend à la France Métropolitaine, aux DOM-TOM et une partie de l’Europe.
+      </p>
+      <p>Peu importe votre secteur d’activités ou la taille de votre structure, que vous ayez besoin d’une ou plusieurs solutions, nous sommes à votre écoute afin de trouver la  meilleure solution et garantir un partenariat efficace.</p>
+      <img class ="gsi_accueil_image" src="assets/dist/images/18784.jpg" alt="">
     </div>
     <div class ="image description col-xs-12 col-lg-6">
-    <img class ="gsi_accueil_image" src="assets/dist/images/18784.jpg" alt="">
-  <a href="<?php echo site_url('home/nos_prestations'); ?>">accueil</a>
+    <ul>
+      <li><h2>Offrir</h2> une relation privilégiée basée sur la confiance, l’écoute, la disponibilité et la transparence notamment à travers l’accès à des espaces clients individualisés.</li>
+      <li><h2>Honorer</h2>les demandes et respecter les délais annoncés grâce une organisation interne efficace et un pôle qualité.</li>
+      <li><h2>Favoriser</h2>la transmission du savoir-faire par la formation et la qualification professionnelle des collaborateurs de l’entreprise et l’équité social dans le recrutement. </li>
+      <li><h2>Veiller</h2>quotidiennement à la qualité des logiciels et des prestations proposées dans le respect des exigences réglementaires et légale de la profession.</li>
+      <li><h2>Respecter</h2>l’environnement en adoptant un comportement et des gestes éco-responsables.</li>
+      <li><h2>Agir</h2>au mieux des intérêts des sociétés partenaires avec toute la diligence requise en adoptant le sens du résultat.</li>
+      <li><h2>Garantir</h2>une politique de confidentialité, une démarche qualité, de protection et sécurité des données au regard du RGPD.</li>
+    </ul>
     </div>
   </div>
 </div>
-
-
-
-
- <!-- <h1>
-  Test
-</h1>
-
-<p>
-  <a href="<?php echo site_url(); ?>">accueil</a>
-  <br />
-
-  <a href="<?php echo site_url('test'); ?>">accueil</a> du test
-  <br />
-
-  <a href="<?php echo site_url('test/secret'); ?>">page secrète</a>
-  <br />
-
-  <a href="<?php echo site_url(array('test', 'secret')); ?>">page secrète</a>
-</p>
- -->
